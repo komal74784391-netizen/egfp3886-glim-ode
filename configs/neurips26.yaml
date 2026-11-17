@@ -1,0 +1,5 @@
+seed: 11
+latent_dim: 128
+solver_iterations: 3
+damping: 0.5
+lr: 0.001
